@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first GIT Repository
 <br>
-Author - Rithvik Errabelli
+Author - Rithvik Errabelli (Apna College)
